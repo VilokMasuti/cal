@@ -16,7 +16,7 @@ function Navbar() {
             <div className="flex-shrink-0">
               <img
                 className="w-32 h-8"
-                src="/public/ivf-pulse-logo.png"
+                src="/ivf-pulse-logo.png"
                 alt="Workflow"
               />
             </div>

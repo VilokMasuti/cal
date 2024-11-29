@@ -218,7 +218,7 @@ export default function Calculator() {
               type="submit"
               className="bg-[#E45D61] text-white px-8 py-3 rounded hover:bg-[#d54f53]"
             >
-              Calculate
+              Calculator
             </button>
           </div>
         </form>
